@@ -4,7 +4,7 @@ A comprehensive quantitative finance toolkit implemented in Python, featuring a 
 
 ---
 
-## 🛠️ Core Capabilities
+##  Core Capabilities
 
 ### 1. Stochastic Price Forecasting Framework (`Euler_Discretization.ipynb`)
 * **Methodology:** Implements an **Euler-Maruyama Discretization** scheme to simulate continuous-time Geometric Brownian Motion (GBM).
@@ -20,14 +20,14 @@ A comprehensive quantitative finance toolkit implemented in Python, featuring a 
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 * **`Euler_Discretization.ipynb`**: The stochastic simulation notebook containing path generation, volatility shocking, and empirical terminal distribution plots.
 * **`BSM_Call_Option.ipynb`**: The closed-form analytical pricing script containing custom mathematical functions, risk-neutral valuation formulas, and model convergence cross-validation.
 
 ---
 
-## ⚙️ Mathematical Framework & Libraries
+##  Mathematical Framework & Libraries
 
 This framework is built using standard quantitative computing libraries in Python:
 * **NumPy:** For high-performance vectorized array operations during Monte Carlo generation.
@@ -36,7 +36,7 @@ This framework is built using standard quantitative computing libraries in Pytho
 
 ---
 
-## 🚀 How to Run and Validate
+##  How to Run and Validate
 
 ### Prerequisites
 Ensure your Python environment has the necessary quantitative stack installed:
